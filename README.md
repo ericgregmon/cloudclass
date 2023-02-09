@@ -1,3 +1,2 @@
 # cloudclass
 #names
-#class
